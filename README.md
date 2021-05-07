@@ -16,4 +16,4 @@ The analysis applies deep learning model to predict if companies get funded by A
 - Attempts including adding the number of hidden layers, the number of neurons and changing the activation functions have been conducted to achieve better model performance.  
   
 # Summary
-Overall, the deep learning model performs adequately well in predicting whether a company funded by AlphabetSoup could succeed or not. Another less complex model (random forest model) could also be applied for such classification as the data comes as in tabular form. Random forest model could achieve a decent performance in 
+Overall, the deep learning model performs adequately well in predicting whether a company funded by AlphabetSoup could succeed or not. Another less complex model (random forest model) could also be applied for such classification as the data comes as in tabular form. Random forest model could achieve a decent performance with less computational resources consumed.
